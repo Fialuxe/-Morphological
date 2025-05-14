@@ -4,6 +4,8 @@ Morphological is a simple program to calculate TF-IDF values from preprocessed C
 
 Morphologicalは、形態細解済みCSVファイルからTF-IDF値を算出するプログラムです。
 
+出力は同一ディレクトリのout.txtのようなものになります。
+
 # 🏦 Requirements / 必要環境
 
 .NET 8 SDK (or above?)
