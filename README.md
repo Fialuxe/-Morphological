@@ -75,3 +75,7 @@ This project is released under the MIT License.MITライセンスのもとで公
 # 🤝 Contributions / コントリビューション
 
 Feel free to fork and submit PRs!お気軽にFork・Pull Requestしてください。
+
+
+# 他のファイルについて
+時間の都合上、いらないファイルもあります。ご容赦ください。
